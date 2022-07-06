@@ -1,4 +1,3 @@
 # action-repo
 Used to ping Github actions with Github webhooks.
-Hello from here
-changes in secondary branch
+New changes in secondary
